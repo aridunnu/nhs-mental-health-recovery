@@ -4,8 +4,6 @@
 ### Project Overview
 This project investigates whether NHS Talking Therapies (formerly IAPT) recovery rates recovered post-COVID-19, and whether recovery was equitable across deprivation levels and regions in England.
 
-Built as a portfolio project targeting NHS analytics and Big 4 consulting roles, combining public health domain knowledge with end-to-end data science delivery.
-
 ---
 
 ### Key Findings
