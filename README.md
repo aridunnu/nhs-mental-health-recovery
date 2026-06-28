@@ -69,5 +69,5 @@ The 2022 NHS restructure (CCGs to ICBs) creates a geographic discontinuity that 
 ---
 
 ### Author
-Kehinde | MSc Data Science, University of Salford  
+Kehinde Fakeye | MSc Data Science, University of Salford  
 [GitHub](https://github.com/aridunnu) | [LinkedIn](https://www.linkedin.com/in/kehindefakeye)
