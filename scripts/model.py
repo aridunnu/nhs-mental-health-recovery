@@ -24,6 +24,7 @@ print("Building feature set...")
 pre_pandemic = pd.read_sql("""
     SELECT 
         org_code,
+        MAX(org_name) as org_name,
         AVG(CAST(measure_value AS FLOAT)) as pre_pandemic_recovery_rate,
         COUNT(*) as pre_pandemic_months
     FROM talking_therapies
@@ -197,7 +198,7 @@ risk_output = df_model[["org_code", "risk_score", "risk_category",
                           "pre_pandemic_recovery_rate",
                           "deprivation_decile"]].copy()
 risk_output = risk_output.merge(
-    df[["org_code", "recovery_period_rate"]], on="org_code", how="left"
+    df[["org_code", "org_name", "recovery_period_rate"]], on="org_code", how="left"
 )
 risk_output = risk_output.sort_values("risk_score", ascending=False)
 
