@@ -4,6 +4,14 @@
 ### Project Overview
 This project investigates whether NHS Talking Therapies (formerly IAPT) recovery rates recovered post-COVID-19, and whether recovery was equitable across deprivation levels and regions in England.
 
+Built as a portfolio project targeting NHS analytics and Big 4 consulting roles, combining public health domain knowledge with end-to-end data science delivery.
+
+---
+
+### Live Demo
+- **AI Agent:** [NHS Mental Health Recovery Agent](https://nhs-mental-health-recovery-2026.streamlit.app/)
+- **Power BI Dashboard:** See screenshots below
+
 ---
 
 ### Key Findings
@@ -68,6 +76,26 @@ The 2022 NHS restructure (CCGs to ICBs) creates a geographic discontinuity that 
 
 ---
 
+### Dashboard Screenshots
+
+**Page 1: About this Dashboard**
+![About this dashboard](assets/dashboard_aboutthisdashboard.png)
+
+**Page 2: Executive Overview**
+![Executive Overview](assets/dashboard_page2.png)
+
+**Page 3: Geographic Analysis**
+![Geographic Analysis](assets/dashboard_page3.png)
+
+**Page 4: Deprivation Analysis**
+![Deprivation Analysis](assets/dashboard_page4.png)
+
+**Page 5: Risk Intelligence**
+![Risk Intelligence](assets/dashboard_page5.png)
+
+
+---
+
 ### Author
-Kehinde Fakeye | MSc Data Science, University of Salford  
+Kehinde | MSc Data Science, University of Salford  
 [GitHub](https://github.com/aridunnu) | [LinkedIn](https://www.linkedin.com/in/kehindefakeye)
