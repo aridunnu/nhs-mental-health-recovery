@@ -195,7 +195,7 @@ if user_input:
         with st.spinner("Analysing data..."):
             data_context = build_data_context(user_input)
 
-            client = anthropic.Anthropic()
+            client = anthropic.Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
 
             messages_for_api = []
             for msg in st.session_state.messages[:-1]:
