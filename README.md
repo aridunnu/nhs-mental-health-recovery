@@ -79,19 +79,19 @@ The 2022 NHS restructure (CCGs to ICBs) creates a geographic discontinuity that 
 ### Dashboard Screenshots
 
 **Page 1: About this Dashboard**
-![About this dashboard](assets/dashboard_aboutthisdashboard.png)
+![About this dashboard](assets/dashboard/aboutthisdashboard.png)
 
 **Page 2: Executive Overview**
-![Executive Overview](assets/dashboard_page2.png)
+![Executive Overview](assets/dashboard/page2.png)
 
 **Page 3: Geographic Analysis**
-![Geographic Analysis](assets/dashboard_page3.png)
+![Geographic Analysis](assets/dashboard/page3.png)
 
 **Page 4: Deprivation Analysis**
-![Deprivation Analysis](assets/dashboard_page4.png)
+![Deprivation Analysis](assets/dashboard/page4.png)
 
 **Page 5: Risk Intelligence**
-![Risk Intelligence](assets/dashboard_page5.png)
+![Risk Intelligence](assets/dashboard/page5.png)
 
 
 ---
