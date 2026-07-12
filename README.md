@@ -22,7 +22,7 @@ Built as a portfolio project targeting NHS analytics and Big 4 consulting roles,
 
 ---
 
-### Tech Stack
+### What I Worked With
 - **Python** (Pandas, Scikit-learn, Matplotlib, Seaborn)
 - **SQLite** for structured data storage
 - **Power BI** for interactive dashboard
